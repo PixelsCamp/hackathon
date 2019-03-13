@@ -3,7 +3,7 @@
 
 ## Crowdsourcing Video AI Director!
 
-![Crowdsourcing Video AI Director!](assets/nos_crowdsourcing-video-ai-director.jpg "Crowdsourcing Video AI Director!")
+![Crowdsourcing Video AI Director!](https://raw.githubusercontent.com/PixelsCamp/hackathon/master/v3.0/assets/nos_crowdsourcing-video-ai-director.jpg "Crowdsourcing Video AI Director!")
 
 ## Context
 

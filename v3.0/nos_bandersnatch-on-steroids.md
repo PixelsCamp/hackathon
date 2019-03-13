@@ -3,7 +3,7 @@
 
 ## “Bandersnatch” on steroids!
 
-![“Bandersnatch” on steroids!](assets/nos_bandersnatch-on-steroids.jpg "“Bandersnatch” on steroids!")
+![“Bandersnatch” on steroids!](https://raw.githubusercontent.com/PixelsCamp/hackathon/master/v3.0/assets/nos_bandersnatch-on-steroids.jpg "“Bandersnatch” on steroids!")
 
 ## Context
 

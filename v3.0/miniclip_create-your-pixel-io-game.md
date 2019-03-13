@@ -3,7 +3,7 @@
 
 ## Create your pixel.io game
 
-![Create your pixel.io game](assets/miniclip_create-your-pixel-io-game.jpg "Create your pixel.io game")
+![Create your pixel.io game](https://raw.githubusercontent.com/PixelsCamp/hackathon/master/v3.0/assets/miniclip_create-your-pixel-io-game.jpg "Create your pixel.io game")
 
 ## Context
 

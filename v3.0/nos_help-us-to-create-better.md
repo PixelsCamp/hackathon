@@ -3,7 +3,7 @@
 
 ## Help us to create better
 
-![Help us to create better](assets/nos_help-us-to-create-better.jpg "Help us to create better")
+![Help us to create better](https://raw.githubusercontent.com/PixelsCamp/hackathon/master/v3.0/assets/nos_help-us-to-create-better.jpg "Help us to create better")
 
 ## Context
 
