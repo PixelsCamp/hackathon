@@ -39,18 +39,6 @@ How to Apply
 2. Find a Habit team member at the BrightPixel Stand or Habit Dome to receive some hardware if necessary or to answer any questions that you may have.
 
 
-Requirements for integrations
-1. Install Muzzley App (https://cdn.muzzley.com/apk/muzzley-v3-qa.apk) on your Android or emulator or ask us for beta tester access to our iOS Application
-2. Our API uses the OAuth2.0 protocol for authentication, so you will need a set of credentials. Find us on the event or get in touch to pixelscamp@habit.io to get yours!
-3. Follow our integration documentation (https://muzzleyintegrations.docs.apiary.io/)
-We have already created a generic specification (https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications) of a Device for you to use with your project:
-1 component with the following properties:
-1 property status (true/false)
-4 properties for strings (property1, property2, property3, property4)
-1 property image (url)
-1 property orientation (up/down/left/right)
-	And we have created a generic interface that will allow you to control your device. It will appear on your Muzzley app as soon as you manage to pair your device with your user account, following the steps described here.
-
 
 Hardware available
 This it totally optional and you don’t even need to touch hardware to build within the IoT World. Nevertheless, to the mighty warriors, we have several Raspberry Pi’s, breadboards and some electronic components that you can use to create your project. 
@@ -64,4 +52,6 @@ Bootstrap your idea by attending our workshops happening on March 22nd at 10:00A
 
 ## Resources
 
-All informations and any update available at https://github.com/habitio/PixelsCamp-Challenge/blob/master/README.md
+In order to be able to access Habit Platform and complete the **IoT Wizard Challenge**, please follow this link: 
+
+https://github.com/habitio/PixelsCamp-Challenge/blob/master/README.md
