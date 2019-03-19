@@ -67,7 +67,11 @@ Also, for those of you interested in trying out Azure cloud services (and Xboxâ€
 ## Resources
 
 https://azure.microsoft.com/en-us/get-started/
+
 https://azure.microsoft.com/en-us/try/cognitive-services/
+
 https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/
+
 https://medium.com/medialesson/iothubtrigger-azure-function-and-azure-iot-hub-e45ea819e6b5
+
 https://azure.microsoft.com/da-dk/resources/videos/connect-2018-hands-on-azure-iot-with-node-js-and-the-mxchip/
