@@ -38,7 +38,7 @@ If you are reading this, you acknowledge that you want to go with B despite the 
  
 Ok, so to speed you up, we have listed below a couple of data sources (websites) where you can find data to use in phishing email detection task. There is also data about phishing websites, in case you want to look at the problem from a different angle. Nevertheless, we encourage you to find more data sources or anything that can help. Feel free to innovate.
 
-** Resources on phishing below:**
+**Resources on phishing below:**
 
 * Phishing emails
  
