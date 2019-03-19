@@ -28,11 +28,11 @@ PS: don’t trick yourself. Detecting spam is not the same as detecting phishing
 
 ## Resources
 
-→ Where do I start? ← 
+**→ Where do I start? ←**
 
-A - If you have an idea already, please ignore this section! This may bias you, and we don't want that.
+* A - If you have an idea already, please ignore this section! This may bias you, and we don't want that.
 
-B - If you are lost but you are considering it, below you have a couple of options to help you start. However, don't consider this "THE way to go". We are truly interested in your creativity and out-side-of-the-box thinking!
+* B - If you are lost but you are considering it, below you have a couple of options to help you start. However, don't consider this "THE way to go". We are truly interested in your creativity and out-side-of-the-box thinking!
  
 If you are reading this, you acknowledge that you want to go with B despite the risks mentioned in A!
  
@@ -41,38 +41,40 @@ Ok, so to speed you up, we have listed below a couple of data sources (websites)
 ** Resources on phishing below:**
 
 * Phishing emails
- ** https://monkey.org/~jose/phishing/ 
-
- ** https://www.kaggle.com/dhimananubhav/emails-regex-and-pandas/data
-
- ** https://mailman.uib.no/public/corpora/2006-May/002640.html
  
- ** https://malwaretips.com/resources/categories/email-scams.28/
+  * https://monkey.org/~jose/phishing/ 
+
+  * https://www.kaggle.com/dhimananubhav/emails-regex-and-pandas/data
+
+  * https://mailman.uib.no/public/corpora/2006-May/002640.html
  
- ** http://www.millersmiles.co.uk/search/PayPal
+  * https://malwaretips.com/resources/categories/email-scams.28/
+ 
+  * http://www.millersmiles.co.uk/search/PayPal
 
 * Ham emails (including spam)
  
- ** https://spamassassin.apache.org/old/publiccorpus/ 
+  * https://spamassassin.apache.org/old/publiccorpus/ 
 
 * Phishing Website URLs
  
- ** https://www.phishtank.com/
+  * https://www.phishtank.com/
  
- ** https://openphish.com/
+  * https://openphish.com/
  
- ** https://www.kaggle.com/rtatman/fraudulent-email-corpus
+  * https://www.kaggle.com/rtatman/fraudulent-email-corpus
 
 * Phishing Websites (Raw Content)
  
-** https://data.mendeley.com/datasets/h3cgnj8hft/
+  * https://data.mendeley.com/datasets/h3cgnj8hft/
  
-** http://archive.ics.uci.edu/ml/datasets/Phishing+Websites
+  * http://archive.ics.uci.edu/ml/datasets/Phishing+Websites
  
-** https://archive.ics.uci.edu/ml/datasets/Website+Phishing
+  * https://archive.ics.uci.edu/ml/datasets/Website+Phishing
 
 * Phishing Websites (Screenshots)
- ** https://web.cs.hacettepe.edu.tr/~selman/phish-iris-dataset/
+ 
+  * https://web.cs.hacettepe.edu.tr/~selman/phish-iris-dataset/
 
 
 Citations:
