@@ -28,7 +28,7 @@ To help you we've got access points around the venue, controlled by a Cisco Conn
 
 Cisco CMX provides a powerful API! To ensure you take the most out of it, we've created a page with information and learning resources. Check it [here](https://pixels19.warpdev.io/cmx.html).
 
-If you need to embed chat, video or other collaboration features remember that you shouldn't reinvent the weel!  Cisco Webex Teams is an app for continuous teamwork with video meetings, group messaging, file sharing and whiteboarding (tip: you'll spot two of these in the venue). 
+If you need to embed chat, video or other collaboration features remember that you shouldn't reinvent the wheel!  Cisco Webex Teams is an app for continuous teamwork with video meetings, group messaging, file sharing and whiteboarding (tip: you'll spot two of these in the venue). 
 
 You can use Teams' APIs to build Bots and Integrations or the SDKs to integrate Webex directly in your applications. Once again, to fast track your learning experience we've created [this page](https://pixels19.warpdev.io/webex.html).
 
