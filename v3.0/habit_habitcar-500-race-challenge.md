@@ -25,4 +25,6 @@ PS: If you don’t find a car but still want to build something cool, you can al
 
 ## Resources
 
+In order to be able to access Habit Platform and complete the HABITCAR 500 Challenge, please follow this link: 
 
+https://github.com/habitio/PixelsCamp-Challenge/blob/master/README.md
