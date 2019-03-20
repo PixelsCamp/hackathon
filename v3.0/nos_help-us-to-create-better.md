@@ -28,4 +28,14 @@ We want you, nay, we need you! Help us connect the dots!
 
 ## Resources
 
-
+NOS NET API Doc: http://nos-apidocs.cloudapp.net/swagger-ui/?url=http://nos-apidocs.cloudapp.net/sites/default/files/blueprints/swagger-apis/nosnet/Nos%20Net%20FE%20API%20-%20v35%20-%20swagger.json#/
+ 
+NOS NET API Endpoint https://tyr-prod.apigee.net/v5/nosroutermanager/
+ 
+OAuth Authorize Endpoint: https://tyr-prod.apigee.net/nos_oauth2_v2_prd/authorize?redirect_uri=https%3A%2F%2Faminhanet.nos.pt%2Fv5%2FInicio&client_id={client_id}&response_type=token&state=XYZ&scope=user_profile
+ 
+Redirect URI with token: https://aminhanet.nos.pt/v5/Inicio#access_token={access_token}&scope={scope}&state={state}&expires_in={expires_in}
+ 
+OAuth Flow type:  Implicit Grant flow
+ 
+How to get Credentials? Talk to us on Slack #NOS channel.
