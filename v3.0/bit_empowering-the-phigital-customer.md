@@ -38,3 +38,5 @@ Technical documentation: https://sonae-pixelcamp.apigee.io/
 Online support: WhatsApp number to be disclosed on March 21st
 
 Local support: reach any of our Sonae MC staff or participants which are identified with a Sonae MC logo or visit our stand at the entrance of the pavilion
+
+Having doubts about a challenge or wanting to know more about BIT? Our members are available for whatever questions come up, through whatsapp: +351930511250. Ask away!
