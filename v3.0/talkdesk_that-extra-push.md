@@ -18,4 +18,6 @@ Talk to our mentors to get access and tips on how to use Talkdesk Studio to buil
 
 ## Resources
 
+https://docs.google.com/document/d/1h5i7WBhuakzzA7HjulLMD1iljxLKIRZCnlkDjD4IAek/edit?usp=sharing
 
+#talkdesk-challenge
