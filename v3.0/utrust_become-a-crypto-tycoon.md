@@ -24,3 +24,4 @@ May the Force be with you & the best team win!
 ## Resources
 
 UTRUST Merchant API Documentation: https://docs.api.pixels-utrust.com
+Get your Merchant Credentials by signing up here: https://merchants.pixels-utrust.com (email has to be different from the Wallet's).
